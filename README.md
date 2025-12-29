@@ -5,19 +5,22 @@
 
 ## Tech
 <!-- badge -->
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" alt="swift">
+<img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white"/ alt="ios">
 <br>
 
-## GitLog
-<div align="leading">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seon-u&layout=compact&theme=vue" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Seon-u&theme=vue&show_icons=true" height="180px"/>
-</div>
-<br/>
-<div align="leading">
-  <img src="https://streak-stats.demolab.com?user=Seon-u&theme=whatsapp-light2&hide_border=true&border_radius=5.9" width="500px"/>
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="javascript">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="react">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js">
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
+
+###
+
 
 <!--
 **Seon-U/Seon-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
