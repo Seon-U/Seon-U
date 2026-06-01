@@ -2,6 +2,9 @@
 
 ## Hi there 👋
 오늘도 하나의 잔디를 심는다
+<br/>
+[![Open Portfolio](https://img.shields.io/badge/Open-Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://seon-u-portfolio.vercel.app/)
+<br/>
 
 ## Tech
 <!-- badge -->
