@@ -1,36 +1,52 @@
-<div align="center">
+# 김선우 · Seon-U
 
-## Hi there 👋
-오늘도 하나의 잔디를 심는다
-<br/>
-[![Open Portfolio](https://img.shields.io/badge/Open-Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://seon-u-portfolio.vercel.app/)
-<br/>
+**시스템 경계에서 원인을 특정하는 개발자**
 
-## Tech
-<!-- badge -->
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" alt="swift">
-<img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white"/ alt="ios">
-<br>
+프론트엔드와 백엔드가 만나는 인터페이스에 관심이 많습니다<br/>
+국어국문학 전공의 언어 감각을 STT 교정 로직과 기술 문서화에 연결합니다.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="javascript">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="react">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js">
-<img src="https://img.shields.io/badge/vite-9135FF?style=for-the-badge&logo=vite&logoColor=white" alt="vite">
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-seon--u--portfolio.vercel.app-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://seon-u-portfolio.vercel.app/)
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
+</div>
 
-### Learning
-<img src="https://img.shields.io/badge/Java-41BDF5?style=for-the-badge&logo=java&logoColor=white" alt="java">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
-<img src="https://img.shields.io/badge/SpringBoot-25A162?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot">
-<img src="https://img.shields.io/badge/vitest-00FF74?style=for-the-badge&logo=vitest&logoColor=white" alt="vitest">
-<img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate">
+---
+
+## 🔍 What I Done
+- **BFF 패턴 기반 인증 아키텍처 설계** — NextAuth v5 + Spring Security JWT 통합, BFF 리버스 프록시 설계
+- **App Store 배포 앱 2개** — 기획부터 배포, 실사용자 피드백 반영까지
+
+## 📱 Featured Projects
+
+| 프로젝트 | 설명 | 기술 |
+|---|---|---|
+| **[MGK](https://github.com/Seon-U/MGK.git)** | 시니어 반려동물 양육 통합 관리 웹 서비스 · STT 경음화 오인식 교정 로직 설계 · AWS 배포 | Next.js, Spring | 
+| **[아이앞으로](https://github.com/Seon-U/foryouhana-mobileweb-ui.git)** | 증여세 관리 서비스 · BFF 인증 구조 + ERD 자기참조 FK 설계 담당 | Next.js, PrismaORM, MySQL |
+| **Peacefull** | 탈북민 대상 한국어 발음 학습 앱 · STT 경음화 오인식 교정 로직 설계 · App Store 배포 | SwiftUI, AVFoundation | 
+| **[FanByte](https://github.com/Seon-U/2024-MC3-A12-Moon-Crystal.git)** | 팬 사진 저장·관리 앱 · iOS 저장공간 검증, 커스텀 슬라이더, Dynamic Island · App Store 배포 | SwiftUI, SwiftData | 
 
 
+## 🛠 Tech Stack
+
+**Main**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+**Also Working With**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+## 🎓 Background
+
+- Apple Developer Academy @POSTECH (iOS/SwiftUI, 9개월)
+- SeSAC 웹 풀스택 과정 · 디지털 하나로 핀테크 과정 (하나은행 연계)
+- 경희대학교 국어국문학과
 
 
 
