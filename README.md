@@ -5,7 +5,7 @@
 프론트엔드와 백엔드가 만나는 인터페이스에 관심이 많습니다<br/>
 국어국문학 전공의 언어 감각을 STT 교정 로직과 기술 문서화에 연결합니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-seon--u--portfolio.vercel.app-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://seon-u-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-site---06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.devslab.uk/)
 
 </div>
 
