@@ -5,7 +5,7 @@
 프론트엔드와 백엔드가 만나는 인터페이스에 관심이 많습니다<br/>
 국어국문학 전공의 언어 감각을 STT 교정 로직과 기술 문서화에 연결합니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-site---06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.devslab.uk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-site-06b6d4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555)](https://portfolio.devslab.uk/)
 
 </div>
 
@@ -27,15 +27,10 @@
 
 ## 🛠 Tech Stack
 
-**Main**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
-**Also Working With**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
