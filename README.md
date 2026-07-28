@@ -22,7 +22,7 @@
 | **[MGK](https://github.com/Seon-U/MGK.git)** | 시니어 반려동물 양육 통합 관리 웹 서비스 · STT 경음화 오인식 교정 로직 설계 · AWS 배포 | Next.js, Spring | 
 | **[아이앞으로](https://github.com/Seon-U/foryouhana-mobileweb-ui.git)** | 증여세 관리 서비스 · BFF 인증 구조 + ERD 자기참조 FK 설계 담당 | Next.js, PrismaORM, MySQL |
 | **Peacefull** | 탈북민 대상 한국어 발음 학습 앱 · STT 경음화 오인식 교정 로직 설계 · App Store 배포 | SwiftUI, AVFoundation | 
-| **[FanByte](https://github.com/Seon-U/2024-MC3-A12-Moon-Crystal.git)** | 팬 사진 저장·관리 앱 · iOS 저장공간 검증, 커스텀 슬라이더, Dynamic Island · App Store 배포 | SwiftUI, SwiftData | 
+| **[FanByte](https://github.com/Seon-U/2024-MC3-A12-Moon-Crystal.git)** | 팬 사진 저장 공간 관리 앱 · iOS 저장공간 검증, 커스텀 슬라이더, Dynamic Island · App Store 배포 | SwiftUI, SwiftData | 
 
 
 ## 🛠 Tech Stack
